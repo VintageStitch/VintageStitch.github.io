@@ -7625,10 +7625,10 @@ header {
   min-height: 700px;
   position: relative; }
 .slider-itemvs {
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: calc(100vh);
+  height: calc(90vh);
   min-height: 700px;
   position: relative; }
   .slider-item:before {
