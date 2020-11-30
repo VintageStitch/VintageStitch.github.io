@@ -7624,6 +7624,13 @@ header {
   height: calc(100vh);
   min-height: 700px;
   position: relative; }
+.slider-itemvs {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: calc(100vh);
+  min-height: 700px;
+  position: relative; }
   .slider-item:before {
     content: "";
     position: absolute;
